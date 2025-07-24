@@ -1,0 +1,19 @@
+# Maven / Java
+target/
+*.iml
+*.class
+*.log
+*.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+.project
+.settings/
+.classpath
+
+# OS / misc
+Thumbs.db
+
+# Quarkus dev files
+.quarkus/
